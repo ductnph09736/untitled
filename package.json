@@ -1,0 +1,11 @@
+{
+  "name": "ngocduc",
+  "version": "1.0.0",
+  "description": "viet gi cung dc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "NGOC DUC",
+  "license": "ISC"
+}
